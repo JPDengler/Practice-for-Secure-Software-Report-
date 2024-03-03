@@ -1,4 +1,4 @@
-# CS305
+### CS-305 Module Eight Journal
 # Brief Client Summary
 For this project, our client was Artemis Financial, a consulting company specializing in financial planning. They tasked us with modernizing their operations, particularly focusing on enhancing the security of their web application to protect client data during data transfer.
 
